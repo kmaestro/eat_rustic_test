@@ -1,0 +1,5 @@
+GET http://localhost:8082/api/nodes
+Accept: application/json
+Authorization: Bearer wOWAQSwTNcvjL5NVtOTFpnzl939RwxwoBK96mNL9
+
+###
